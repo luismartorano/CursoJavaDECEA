@@ -17,7 +17,7 @@ public class OperadoresAtribuicao {
 		System.out.println(teste);
 		
 		int mult = 22;
-		mult *= 5;
+		mult *= 5; // mult = mult * 5
 		System.out.println(mult);
 		
 		
